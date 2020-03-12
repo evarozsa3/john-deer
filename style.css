@@ -1,0 +1,19 @@
+
+.bg-barn{
+  background-image: url("https://www.deere.com/assets/images/common/home-page/March-2020-Hero-1366x347.jpg");
+  height: 48vh;
+  background-size: cover;
+}
+.bg-bar{
+  background-color: rgb(49, 46, 46);
+}
+.bg-wrench{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/autotrac-300-featured-image.jpg);
+  height: 65vh;
+  background-size: cover;
+}
+.bg-t{
+  background-color: rgba(0, 0, 0, 0.514);
+  height: 65vh;
+  
+}
